@@ -38,7 +38,7 @@ Select all six animals in the hierarchy and Add Component -> Drag the 'MoveForwa
 #### Step 5: 
 Edit their speed values and test to see how it looks. Drag all six animals into the Prefab folder, by choosing “Original Prefab”.
 
-## rogram:
+## Program:
 NAME : SETHUKKARASI C
 
 REG NO: 212223230201
